@@ -1,0 +1,34 @@
+/* Generated from sites/the-mushroom-guy/site.json. */
+:root {
+  --bg: #f7f4ef;
+  --bg-alt: #ece6dc;
+  --surface: #ffffff;
+  --ink: #28231c;
+  --muted: #665d50;
+  --line: #e2d9cb;
+  --accent: #7c5a2e;
+  --accent-strong: #5f4421;
+  --accent-ink: #ffffff;
+  --accent-soft: #efe2cd;
+  --accent-on-dark: #dcbb8a;
+  --dark: #211e18;
+  --dark-ink: #f7f4ef;
+  --error: #b42318;
+  --font-display: 'Bitter', Georgia, serif;
+  --font-body: 'Source Sans 3', 'Helvetica Neue', Arial, sans-serif;
+  --display-weight: 700;
+  --display-tracking: -0.01em;
+  --radius: 16px;
+  --button-radius: 999px;
+  --hero-position: center 60%;
+  --logo-ratio: 1;
+  --product-position: center;
+  --topbar-bg: #ffffff;
+  --topbar-ink: #28231c;
+  --topbar-line: #e2d9cb;
+  --product-fit: cover;
+  --product-bg: #f7f4ef;
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --max-width: 1200px;
+  color-scheme: light;
+}
